@@ -1,1 +1,1 @@
-# Diplom-work
+# Diploma-work
